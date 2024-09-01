@@ -1,3 +1,12 @@
+#define _XOPEN_SOURCE   600
+#define _POSIX_C_SOURCE 200112L
+#define _BSD_SOURCE
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <unistd.h>
+// mmmmm..... donut!
+
 int main() {
     float A = 0, B = 0;
     float i, j;
