@@ -1,5 +1,9 @@
 # fun-C-Code
 
+
+
+![alt text](image.png)
+
 This repository contains a fun C program that generates an animated ASCII art donut (torus) rotating in 3D space. The program, `donut_deobfuscated.c`, creates a mesmerizing visual effect in the terminal using only ASCII characters.
 
 ## Description
