@@ -13,7 +13,7 @@ The donut code is a classic example of creative ASCII art animation. It uses mat
 Key features:
 - 3D to 2D projection of a torus
 - Dynamic shading using ASCII characters
-- Continuous rotation animation
+- Continuous rotation animationadd Ra
 
 
 ## Running the Code on macOS
